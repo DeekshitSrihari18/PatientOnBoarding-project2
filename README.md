@@ -15,8 +15,7 @@ List of features ready and TODOs for future development
 - Logging and Exception handling is also working
 - All Springboot concept is also working like(controller, Restcontroller ,devtools etc)
   
-To-do list:
-
+# To-do list
 -Testing for each function
 -currently only one benifits coordinator is supported
 # Getting Started
